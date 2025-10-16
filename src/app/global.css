@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+:root {
+    --dark-gray: #2F3233;
+    --gray-2: #4B4C4E;
+    --violet: #663399;
+    --violet-2: #8D00EE;
+    --white-2: #F2F2F2;
+    --white-3: #F9F8FA;
+    --light-gray: #C4C4C4;
+    --red: #FF0000;
+}
+
+@theme inline {
+    --font-sans: var(--font-open-sans);
+    --color-dark-gray: var(--dark-gray);
+    --color-gray-2: var(--gray-2);
+    --color-violet: var(--violet);
+    --color-violet-2: var(--violet-2);
+    --color-white-2: var(--white-2);
+    --color-white-3: var(--white-3);
+    --color-light-gray: var(--light-gray);
+    --color-red: var(--red);
+}
+

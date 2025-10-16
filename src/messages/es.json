@@ -1,0 +1,650 @@
+{
+  "Header": {
+    "hero": "Inicio",
+    "about": "Acerca de Call Trade",
+    "whatYouHave": "Condiciones",
+    "reviews": "Reseñas",
+    "vacancies": "Vacantes",
+    "contacts": "Contacto"
+  },
+  "Form": {
+    "title": "Llena el formulario y pronto nos pondremos en contacto contigo:",
+    "savedLabel": "Sus datos están protegidos",
+    "name": {
+      "placeholder": "Nombre"
+    },
+    "phoneNumber": {
+      "placeholder": "Número de teléfono"
+    },
+    "country": {
+      "placeholder": "País",
+      "ua": "Ucrania",
+      "es": "España",
+      "it": "Italia",
+      "pt": "Portugal",
+      "hu": "Hungría",
+      "bg": "Bulgaria",
+      "gr": "Grecia",
+      "ro": "Rumania",
+      "cz": "República Checa",
+      "sk": "Eslovaquia",
+      "pl": "Polonia"
+    },
+    "button": "Enviar"
+  },
+  "Hero": {
+    "title": "Trabaja desde casa, comunícate en tu idioma. Elige un horario conveniente y obtén un ingreso estable!",
+    "text": "¿Hablas otro idioma? ¡Únete a Call Trade! Te capacitamos, te proporcionamos guiones listos para usar y te asesoramos. Gestiona tu tiempo de trabajo con inteligencia y recibe un ingreso estable.",
+    "listItem1": "Horario flexible 5/2: los turnos se planifican con antelación.",
+    "listItem2": "Tarifas y bonificaciones. Pagos por, Payoneer y Binance.",
+    "listItem3": "Acuerdo oficial de colaboración para freelancers.",
+    "listItem4": "Inicio rápido: formación y soporte online desde el primer día.\ndel trabajo\n"
+  },
+  "About": {
+    "item1": {
+      "title": "Productos de belleza",
+      "p1": "Promocionamos productos de belleza y salud: productos para el cuidado de la piel, el cabello y el cuerpo, así como nuevos cosméticos.",
+      "p2": "Los clientes ya están interesados \u200B\u200By listos para comprar; solo tienes que ayudarles a elegir."
+    },
+    "item2": {
+      "title": "Sobre nosotros",
+      "p1": "Ayudamos a las personas a sentirse mejor: asesoramos sobre productos de belleza y salud y guiamos al cliente desde la primera pregunta hasta la compra. Nuestro portafolio incluye más de 50 productos, algunos de ellos propios. Trabajamos en toda Europa y la mayor parte del equipo trabaja de forma remota.",
+      "p2": "Tenemos normas claras, mentores y un flujo constante de solicitudes: tú solo tienes que ganar dinero y crecer.",
+      "p3": "Con nosotros obtendrás:",
+      "listItem1": "Formación remota con turnos planificados;",
+      "listItem2": "Formación y guiones predefinidos;",
+      "listItem3": "Pagos transparentes (tarifa + bonificaciones);",
+      "listItem4": "Equipo internacional y soporte por chat."
+    }
+  },
+  "Countries": {
+    "title": "Países con los que trabajamos",
+    "ua": "Ucrania",
+    "es": "España",
+    "it": "Italia",
+    "pt": "Portugal",
+    "hu": "Hungría",
+    "bg": "Bulgaria",
+    "gr": "Grecia",
+    "ro": "Rumania",
+    "cz": "República Checa",
+    "sk": "Eslovaquia",
+    "pl": "Polonia"
+  },
+  "Offer": {
+    "item1": {
+      "title": "Lo que ofrecemos",
+      "p": "Al unirte a CALL TRADE, tendrás de inmediato reglas claras, capacitación y un flujo constante de solicitudes. Solo te queda coger el ritmo y ganar dinero. Además, ofrecemos:",
+      "listItem1": "Horario flexible 5/2: los turnos se planifican con antelación, sin sorpresas.",
+      "listItem2": "Completamente remoto: trabaja desde casa con una laptop (Windows) e internet estable por cable.",
+      "listItem3": "Solicitudes disponibles: los clientes ya han realizado un pedido en la página web.",
+      "listItem4": "Guiones y un mentor: un comienzo seguro y sin estrés.",
+      "listItem5": "Pagos transparentes: tarifa + bonificaciones, siempre puntuales.",
+      "listItem6": "Crecimiento: pasos claros para ascender.",
+      "listItem7": "Práctica de idiomas a diario: la confianza al hablar se adquiere rápidamente."
+    },
+    "item2": {
+      "title": "Tu misión",
+      "p": "Devuelves la llamada a un cliente que ya realizó una solicitud. Tienes guiones listos para usar y respuestas a preguntas frecuentes. La tarea es ayudar al cliente a tomar una decisión, cerrar la venta e introducir correctamente los datos en el CRM: ficha del cliente, contactos y dirección de entrega."
+    },
+    "noCalls": "No llamadas en frío"
+  },
+  "WhatYouHave": {
+    "title": "Lo que obtienes",
+    "item1": {
+      "title": "Condiciones de trabajo cómodas",
+      "description": "Puedes trabajar desde casa o desde cualquier otro lugar que te resulte conveniente."
+    },
+    "item2": {
+      "title": "Horario flexible",
+      "description": "Ofrecemos horarios de trabajo flexibles que se adaptan a tu estilo de vida."
+    },
+    "item3": {
+      "title": "Salarios dignos",
+      "description": "Garantizamos un salario fijo y bonificaciones según el sistema de motivación."
+    },
+    "item4": {
+      "title": "Soporte continuo",
+      "description": "Le proporcionamos guiones de conversación y toda la información necesaria sobre los productos."
+    },
+    "item5": {
+      "title": "Desarrollo de cualidades personales",
+      "description": "Este trabajo te ayudará a mejorar tu conocimiento del idioma, mejorar tus habilidades de comunicación y desarrollar tu capacidad de escucha y persuasión."
+    },
+    "item6": {
+      "title": "Respeto y honestidad",
+      "description": "Ofrecemos salarios puntuales y fomentamos la iniciativa de los empleados."
+    }
+  },
+  "WhatExpect": {
+    "title": "Lo que esperamos de usted",
+    "item1": {
+      "title": "Apertura y amabilidad",
+      "text": "Desde el primer segundo, despiertas las ganas de hablar con el cliente: salúdalo por su nombre, mantén una sonrisa, haz preguntas aclaratorias y haz que el proceso de compra sea sencillo y agradable. Tu atención se escucha y se siente."
+    },
+    "item2": {
+      "title": "Responsabilidad y puntualidad",
+      "text": "Le confiamos nuestro servicio al cliente y esperamos precisión: llegue puntual, registre correctamente las llamadas en el CRM y siga la lista de verificación. Así, mantendrá una alta calificación y recibirá bonificaciones constantemente."
+    },
+    "item3": {
+      "title": "Habilidades de comunicación",
+      "text": "Representas a la empresa: habla con claridad y estructura, explica los beneficios con sencillez y dirige el diálogo con seguridad hacia una conclusión lógica. Un discurso claro = una oferta clara = una venta exitosa."
+    },
+    "item4": {
+      "title": "¡Conexión estable = ingresos estables!",
+      "listItem1": "Portátil o PC con Windows 10/11 y 8 GB de RAM.",
+      "listItem2": "Auriculares USB con micrófono y cancelación de ruido.",
+      "listItem3": "Internet por cable (Ethernet): conexión directa al portátil o PC.",
+      "listItem4": "Espacio de trabajo silencioso con alimentación eléctrica fiable."
+    }
+  },
+  "Reviews": {
+    "title": "Comentarios de nuestros empleados",
+    "item1": {
+      "text": "Llevo tres meses trabajando remotamente en Call Trade. El trabajo no es difícil y me gusta. El salario se paga puntualmente. Recibo una solicitud desde la página web y llamo al cliente para confirmar el pedido. Estoy contenta con todo.",
+      "name": "Milania, 27 años",
+      "profession": "operadora de Italia"
+    },
+    "item2": {
+      "text": "Me gusta trabajar en Call Trade; las condiciones son buenas. Como estudiante, me siento especialmente cómodo, ya que el horario me permite compaginar turnos con mis estudios. Además, estudio en la Facultad de Filología; este trabajo me ayuda a mejorar mi gramática y mi expresión oral.",
+      "name": "Marek, 20 años",
+      "profession": "operador de la República Checa"
+    },
+    "item3": {
+      "text": "Tengo impresiones positivas de trabajar en Call Trade. Desde el principio, las tareas se explicaron con claridad y se proporcionó toda la información necesaria. Los compañeros siempre están en contacto. En Call Trade, gano buenos ingresos. Los clientes son amables y es fácil comunicarse con ellos.",
+      "name": "Rosa, 29 años",
+      "profession": "operadora de España"
+    },
+    "item4": {
+      "text": "Tras 25 años trabajando sin conexión, me pasé al teletrabajo. Tenía miedo de que no fuera para mi edad, pero Call Trade me lo explicó todo desde el principio. Trabajo con solicitudes puntuales, sin necesidad de buscar clientes. El horario se adapta a las tareas del hogar y los pagos llegan puntualmente. Mi edad es una ventaja: mi experiencia me permite dialogar con calma y cerrar pedidos.",
+      "name": "Alexander, 54 años",
+      "profession": "operador  de Rumanía"
+    },
+    "item5": {
+      "text": "Buscaba trabajo desde casa para ayudar a mis padres. El equipo me trató con respeto y me asignó un mentor. Me incorporé rápidamente al proceso. Cuando un cliente deja una solicitud, mi trabajo es ayudarle a elegir un producto y a realizar el pedido. Me pagan puntualmente y las bonificaciones son transparentes.",
+      "name": "Lidiya, 48 años",
+      "profession": "operadora de  italiana"
+    },
+    "item6": {
+      "text": "Llevo trabajando en Call Trade dos meses. Me gusta que aquí todo sea transparente: tareas claras, instrucciones comprensibles y un equipo amable. Es agradable comunicarse con los clientes y el salario llega puntualmente.",
+      "name": "Claudia, 37 años",
+      "profession": "operadora  de Polonia"
+    },
+    "item7": {
+      "text": "En Call Trade, valoro la posibilidad de trabajar desde cualquier lugar. Suelo visitar a familiares en otras ciudades y llevo mi portátil, y mi trabajo no se resiente. Solo se necesita una conexión a internet estable y ganas de trabajar.",
+      "name": "Tomas, 42 años",
+      "profession": "operador  de la República Checa"
+    },
+    "item8": {
+      "text": "Esta es mi primera vez trabajando remotamente, y Call Trade fue un gran comienzo. Me sorprendió lo sencilla y accesible que fue la capacitación, y mis colegas siempre estuvieron en contacto para ayudar. En una semana, me comunicaba con los clientes con total confianza.",
+      "name": "Anna, 38 años",
+      "profession": "operadora  de España"
+    },
+    "item9": {
+      "text": "Combino el trabajo con la crianza de un hijo. Call Trade comprende las circunstancias familiares, así que puedes elegir un horario que te convenga. Para mí, esto es una gran ventaja.",
+      "name": "Verónica, 25 años",
+      "profession": "operadora  de Hungría"
+    },
+    "item10": {
+      "text": "El equipo aquí es muy unido. Si algo no queda claro, los mentores siempre te lo explican y te ayudan. Gracias a este enfoque, comprendí rápidamente el principio de trabajar con guiones y empecé a sentirme más seguro durante las llamadas.",
+      "name": "Matej, 19 años",
+      "profession": "operador  de Eslovaquia"
+    },
+    "item11": {
+      "text": "En Call Trade, valoro la estabilidad y la transparencia de los pagos. Sin promesas innecesarias, solo condiciones específicas. Esto es poco común en el teletrabajo. No me arrepiento de trabajar aquí.",
+      "name": "Sylvia, 32 años",
+      "profession": "operdora  de Polonia"
+    },
+    "item12": {
+      "text": "Empecé a trabajar en Call Trade a tiempo parcial. Al final, me quedé a tiempo completo. En comparación con mis trabajos anteriores, aquí gano más y el trabajo es mucho más cómodo.",
+      "name": "David, 26 años",
+      "profession": "operador  de Croacia"
+    },
+    "item13": {
+      "text": "Soy introvertida, pero resulta que trabajar como operadora no es nada difícil. Los clientes ya están involucrados, así que las conversaciones fluyen con facilidad. Me da confianza. Me encanta trabajar en Call Trade",
+      "name": "Joanna, 24 años",
+      "profession": "operadora de Rumanía"
+    },
+    "item14": {
+      "text": "Al principio, dudaba de poder trabajar en ventas. Pero Call Trade lo tiene todo claro: formación, soporte, guiones. Ahora me doy cuenta de que este trabajo es ideal para mí e incluso lo disfruto.",
+      "name": "Marina, 23 años",
+      "profession": "operadora de Bulgaria"
+    },
+    "item15": {
+      "text": "En Call Trade, valoramos la puntualidad y la precisión. Me gusta trabajar con un plan claro, y aquí es posible. Me siento parte del equipo, a pesar del teletrabajo.",
+      "name": "Esther, 35 años",
+      "profession": "operadora de Hungría"
+    }
+  },
+  "Vacancies": {
+    "title": "Vacantes de Call Trade",
+    "item1": {
+      "title": "ES — Operador de centro de llamadas (dirección: España)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    },
+    "item2": {
+      "title": "IT — Operador de centro de llamadas (dirección: Italia)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    },
+    "item3": {
+      "title": "PT — Operador de centro de llamadas (dirección: Portugal)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    },
+    "item4": {
+      "title": "HU — Operador de centro de llamadas (dirección: Hungría)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    },
+    "item5": {
+      "title": "BG — Operador de centro de llamadas (dirección: Bulgaria)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    },
+    "item6": {
+      "title": "GR — Operador de centro de llamadas (dirección: Grecia)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    },
+    "item7": {
+      "title": "RO — Operador de centro de llamadas (dirección: Rumanía)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    },
+    "item8": {
+      "title": "CZ — Operador de centro de llamadas (dirección: República Checa)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    },
+    "item9": {
+      "title": "SK — Operador de centro de llamadas (dirección: Eslovaquia)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    },
+    "item10": {
+      "title": "PL — Operador de centro de llamadas (dirección: Polonia)",
+      "content":  {
+        "l1": "¡Hola!",
+        "l2": "¿Hablas Español, buscas ingresos estables y quieres teletrabajar? ¡Conozcámonos! \uD83E\uDD1D",
+        "l3": "\uD83D\uDD0D ¿Qué harás?",
+        "l4": "Comunicarte con clientes interesados.",
+        "l5": "Responder preguntas, ofrecer consultas y brindarles soporte.",
+        "l6": "Ingresar pedidos en el CRM con un script sencillo.",
+        "l7": "\uD83D\uDC49 No hacemos llamadas en frío, solo clientes potenciales.",
+        "l8": "\uD83E\uDDD1\u200D\uD83D\uDCBB ¿Qué ofrecemos?",
+        "l9": "Trabajo 100 % remoto, estés donde estés.",
+        "l10": "Una cartera de clientes ya consolidada: sin necesidad de buscar clientes.",
+        "l11": "Apoyo continuo del equipo y un mentor personal.",
+        "l12": "Horario flexible:",
+        "l13": "Turnos disponibles:",
+        "l14": "10:00–18:00",
+        "l15": "14:00–22:00 (GMT+3)",
+        "l16": "2 días libres a la semana: flexibles, sujetos a acuerdo con el gestor de proyectos.",
+        "l17": "Descansos de 10 minutos por hora + 30 minutos para comer.",
+        "l18": "\uD83D\uDCB6 Remuneración",
+        "l19": "Salario + excelente comisión por ventas. Tus ganancias se basan completamente en el rendimiento y son ilimitadas. \uD83D\uDCC8",
+        "l20": "Progreso profesional: Asistente de Supervisor → Supervisor → Gerente de Call Center",
+        "l21": "\uD83D\uDCA1 Requisitos",
+        "l22": "Español fluido (nivel B2 o superior).",
+        "l23": "Ganas de vender, ayudar y comunicar.",
+        "l24": "Equipo técnico necesario:",
+        "l25": "PC o portátil (Windows 10/11).",
+        "l26": "Al menos 8 GB de RAM.",
+        "l27": "Conexión a internet estable.",
+        "l28": "Auriculares con micrófono.",
+        "l29": "Una habitación tranquila.",
+        "l30": "❌ Este puesto no es adecuado para ti si:",
+        "l31": "Tu nivel de inglés es inferior a B2.",
+        "l32": "No tienes el equipo necesario (¡un MacBook no es adecuado!).",
+        "l33": "No puedes trabajar un turno completo.",
+        "l34": "No quieres vender ni interactuar con clientes.",
+        "l35": "\uD83D\uDCF2 Cómo postularte:",
+        "l36": "Envía tu currículum a",
+        "l37": "o escríbenos por Telegram a"
+      }
+    }
+  },
+  "Bottom": {
+    "title": "¡Desarrolla tus habilidades de comunicación y obtén buenas ganancias!"
+  },
+  "Contact": {
+    "title": "¿Quieres trabajar en Call Trade?",
+    "mailLabel": "Envíenos un correo electrónico a:",
+    "phoneLabel": "O llame al:"
+  }
+}
