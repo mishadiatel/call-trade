@@ -25,7 +25,7 @@ export default function Hero () {
                     <div className={'flex flex-col gap-4'}>
                         {listItems.map((item) => (
                             <div key={Math.random()} className={'flex items-center gap-2'}>
-                                <Icon name={'icon-check'} className={'w-5 h-5 text-violet'} />
+                                <Icon name={'icon-check'} className={'w-5 h-5 min-w-5 text-violet'} />
                                 <span>{item}</span>
                             </div>
                         ))}
