@@ -11,7 +11,8 @@
     "title": "Llena el formulario y pronto nos pondremos en contacto contigo:",
     "savedLabel": "Sus datos están protegidos",
     "name": {
-      "placeholder": "Nombre"
+      "placeholder": "Nombre",
+      "error": "Tu nombre y apellido"
     },
     "phoneNumber": {
       "placeholder": "Número de teléfono"
@@ -29,6 +30,9 @@
       "cz": "República Checa",
       "sk": "Eslovaquia",
       "pl": "Polonia"
+    },
+    "field": {
+      "required": "El campo debe ser rellenado"
     },
     "button": "Enviar"
   },

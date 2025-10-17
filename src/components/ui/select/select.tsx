@@ -1,16 +1,28 @@
-'use client'
-import {useEffect, useRef, useState} from "react";
+'use client';
+import { useEffect, useRef, useState } from "react";
 import Icon from "@/components/ui/svgIcon/Icon";
+import { Control, Controller, FieldValues, Path } from "react-hook-form";
 
-interface SelectProps {
-    options: string[];
+interface CountryOption {
+    key: string;
     label: string;
 }
 
-export default function Select({options, label}: SelectProps) {
-    const [open, setOpen] = useState(false);
-    const [selected, setSelected] = useState<string | null>(null);
+interface SelectProps<T extends FieldValues> {
+    options: CountryOption[];
+    label: string;
+    control: Control<T>;
+    name: Path<T>;
+    error?: string;
+}
 
+export default function Select<T extends FieldValues>({
+                                                          options,
+                                                          label,
+                                                          control,
+                                                          name,
+                                                      }: SelectProps<T>) {
+    const [open, setOpen] = useState(false);
     const selectRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
@@ -34,20 +46,57 @@ export default function Select({options, label}: SelectProps) {
     }, []);
 
     return (
-        <div className={`input-wrapper relative cursor-pointer `} onClick={() => setOpen(prevState => !prevState)} ref={selectRef}>
-            <div className={`input flex justify-between items-center ${open ? '!border-violet-2 !outline !outline-violet-2' : ''}`}>
-                {selected ? <span>{selected}</span> : <span className={'text-light-gray'}>{label}</span>}
-                <Icon name={'icon-down'} className={`h-3 w-3 text-light-gray ${open ? 'opacity-0' : ''}`}/>
-            </div>
-            <div className={`${open ? 'flex' : 'hidden'} absolute top-[calc(100%-5px)] bg-white flex-col w-[calc(100%-12px)] left-1/2 -translate-x-1/2`}>
-                {options && options.map((option) => (
+        <Controller
+            name={name}
+            control={control}
+            render={({ field, fieldState }) => {
+                const selected = options.find(o => o.key === field.value);
+
+                return (
                     <div
-                        key={Math.random()}
-                        className={'px-[6px] py-[2px] text-dark-gray font-light text-[12px] hover:bg-violet-2 hover:text-white cursor-pointer'}
-                        onClick={() => setSelected(option)}
-                    >{option}</div>
-                ))}
-            </div>
-        </div>
-    )
+                        className={`input-wrapper relative cursor-pointer ${fieldState.error ? 'error' : ''}`}
+                        ref={selectRef}
+                    >
+                        <div
+                            className={`input flex justify-between items-center ${open ? '!border-violet-2 !outline !outline-violet-2' : ''}`}
+                            onClick={() => setOpen(prev => !prev)}
+                        >
+                            {selected ? (
+                                <span>{selected.label}</span>
+                            ) : (
+                                <span className="text-light-gray">{label}</span>
+                            )}
+                            <Icon
+                                name={'icon-down'}
+                                className={`h-3 w-3 text-light-gray transition-opacity ${open ? 'opacity-0' : 'opacity-100'}`}
+                            />
+                        </div>
+
+                        {open && (
+                            <div
+                                className="absolute top-[calc(100%-5px)] bg-white flex flex-col w-[calc(100%-12px)] left-1/2 -translate-x-1/2 z-10 shadow-box"
+                            >
+                                {options.map(option => (
+                                    <div
+                                        key={option.key}
+                                        className="px-[6px] py-[2px] text-dark-gray font-light text-[12px] hover:bg-violet-2 hover:text-white cursor-pointer"
+                                        onClick={() => {
+                                            field.onChange(option.key);
+                                            setOpen(false);
+                                        }}
+                                    >
+                                        {option.label}
+                                    </div>
+                                ))}
+                            </div>
+                        )}
+
+                        {fieldState.error && (
+                            <div className="error-message">{fieldState.error.message}</div>
+                        )}
+                    </div>
+                );
+            }}
+        />
+    );
 }
